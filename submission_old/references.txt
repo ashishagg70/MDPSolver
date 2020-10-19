@@ -1,0 +1,5 @@
+1. https://stackoverflow.com/questions/15616742/vectorized-way-of-calculating-row-wise-dot-product-two-matrices-with-scipy
+2. https://www.geeksforgeeks.org/python-linear-programming-in-pulp/
+3. http://www.andrew.cmu.edu/course/10-703/slides/lecture4_valuePolicyDP-9-10-2018.pdf
+4.https://www.youtube.com/watch?v=7yZ5xxdkTb8
+
